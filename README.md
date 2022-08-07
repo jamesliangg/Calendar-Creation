@@ -4,6 +4,7 @@ Run via Google Apps Script. Requires access to Google Docs, Sheets, and Calendar
 ## sheet-id
 Replace sheet-Id with sheet to take Google Doc id's from. Should be formatted like below:
 | Event | Link |
+|---|---|
 | Test Event 1 | https://docs.google.com/document/d/doc-id-1/edit | 
 | Test Event 2 | https://docs.google.com/document/d/doc-id-2/edit | 
 | Test Event 3 | https://docs.google.com/document/d/doc-id-3/edit | 
