@@ -23,34 +23,34 @@ To ensure that program doesn't complain, format as like the examples below (Note
 Toronto Zoo — July 2, 2022 — Company\
 Location: 2000 Meadowvale Rd, Toronto, ON M1B 5K7\
 Time: 10:00 AM - 6:00 PM\
-Details...\
+Details...
 
 ### Single Day Event w/ Date w/o Times
 Toronto Zoo — July 2, 2022 — Company\
 Location: 2000 Meadowvale Rd, Toronto, ON M1B 5K7\
 Time: N/A\
-Details...\
+Details...
 
 ### Single Day Event w/o Date & Time
 Toronto Zoo — July 2, 2022 — Company\
 Location: N/A\
 Time: N/A\
-Details...\
+Details...
 
 ### Multi Day Event w/ Date & Times
 Toronto Zoo — July 2, 2022 - July 5, 2022 — Company\
 Location: 2000 Meadowvale Rd, Toronto, ON M1B 5K7\
 Time: 10:00 AM - 6:00 PM\
-Details...\
+Details...
 
 ### Multi Day Event w/ Date w/o Times
 Toronto Zoo — July 2, 2022 - July 5, 2022 — Company\
 Location: 2000 Meadowvale Rd, Toronto, ON M1B 5K7\
 Time: N/A\
-Details...\
+Details...
 
 ### Multi Day Event w/o Date & Time
 Toronto Zoo — July 2, 2022 - July 5, 2022 — Company\
 Location: N/A\
 Time: N/A\
-Details...\
+Details...
